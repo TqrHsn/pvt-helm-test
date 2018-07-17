@@ -14,7 +14,7 @@ entries:
     appVersion: "1.0"
     created: 2018-07-17T10:27:19.5162374+05:00
     description: A Helm chart for Kubernetes
-    digest: 369cf097ff73cd64af4b80136cf2973e9dbb0d63b243225f453d4ccfd58d2ad5
+    digest: 369cf097ff73cd64af4b80136cf2973e9dbb0d63b243225f453d4ccfd58d2ad4
     name: my-chart
     urls:
     - https://raw.githubusercontent.com/TqrHsn/pvt-helm-test/master/my-chart/my-chart-0.1.0.tgz
