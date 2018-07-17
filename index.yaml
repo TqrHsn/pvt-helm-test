@@ -3,11 +3,20 @@ entries:
   my-chart:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2018-07-16T12:23:45.3272163+05:00
+    created: 2018-07-17T10:04:08.6794973+05:00
+    description: A Helm chart for Kubernetes
+    digest: badd48d2b6d9c0203524056c443f5147a7c57fbbf4060627559a01d4b99fe838
+    name: my-chart
+    urls:
+    - https://raw.githubusercontent.com/TqrHsn/pvt-helm-test/master/my-chart/my-chart-0.1.1.tgz/my-chart-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: 2018-07-17T10:04:08.6784979+05:00
     description: A Helm chart for Kubernetes
     digest: 369cf097ff73cd64af4b80136cf2973e9dbb0d63b243225f453d4ccfd58d2ad4
     name: my-chart
     urls:
-    - https://raw.githubusercontent.com/TqrHsn/pvt-helm-test/master/my-chart/my-chart-0.1.0.tgz
+    - https://raw.githubusercontent.com/TqrHsn/pvt-helm-test/master/my-chart/my-chart-0.1.1.tgz/my-chart-0.1.0.tgz
     version: 0.1.0
-generated: 2018-07-16T12:23:45.3262165+05:00
+generated: 2018-07-17T10:04:08.6769971+05:00
